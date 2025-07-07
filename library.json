@@ -1,0 +1,31 @@
+{
+	"name": "RAK_LPP",
+	"version": "1.0.0",
+	"keywords": [
+		"RUI3",
+		"RAKWireless",
+		"WisBlock",
+		"WisDuo"
+	],
+	"description": "RAK_LPP library is based on CayenneLPP library from ElectronicCats with sensor definitions used with WisBlock/WisDuo Arduino and RUI3 examples.",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"email": "bernd.giesecke@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Bernd"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/beegee-tokyo/RAK_LPP"
+	},
+	"homepage": "https://rakwireless.com"
+}
